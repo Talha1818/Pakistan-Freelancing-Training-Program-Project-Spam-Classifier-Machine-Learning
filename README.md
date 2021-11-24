@@ -1,5 +1,5 @@
 # Pakistan-Freelancing-Training-Program-Project-Spam-Classifier-Machine-Learning
-In this project, we will build a spam classifier in machine learning.
+In this project, we will build a spam classifier in machine learning. Dataset link https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
 ## Distribution of Label<br>
 ![image](https://user-images.githubusercontent.com/65563164/143033345-2be8d5f1-850c-4ab9-b2bc-961858dec10f.png)<br>
 ## Word Cloud of Email Text<br>
